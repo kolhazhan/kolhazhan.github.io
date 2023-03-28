@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kolhazhan.github.io</id>
+    <title>kolhazhan博客</title>
+    <updated>2023-03-28T13:11:29.469Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kolhazhan.github.io"/>
+    <link rel="self" href="https://kolhazhan.github.io/atom.xml"/>
+    <subtitle>平凡的博客</subtitle>
+    <logo>https://kolhazhan.github.io/images/avatar.png</logo>
+    <icon>https://kolhazhan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, kolhazhan博客</rights>
+    <entry>
+        <title type="html"><![CDATA[评论说明]]></title>
+        <id>https://kolhazhan.github.io/ping-lun-shuo-ming/</id>
+        <link href="https://kolhazhan.github.io/ping-lun-shuo-ming/">
+        </link>
+        <updated>2023-03-26T04:05:09.000Z</updated>
+        <content type="html"><![CDATA[<p>仅限港澳台和海外地区居民评论，由于我是用的是静态博客（服务器太贵），我用的是valine评论系统（基于国际版leancloud），所以也只能海外地区能评论，sorry！</p>
+<p>大家能帮我开一个国内的leancloud吗，谢谢啦！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机工具，无任何流氓捆绑✔✔✔]]></title>
+        <id>https://kolhazhan.github.io/zhuang-ji-gong-ju-wu-ren-he-liu-mang-kun-bang/</id>
+        <link href="https://kolhazhan.github.io/zhuang-ji-gong-ju-wu-ren-he-liu-mang-kun-bang/">
+        </link>
+        <updated>2023-03-11T02:47:20.000Z</updated>
+        <content type="html"><![CDATA[<p>原视频：<a href="https://www.bilibili.com/video/BV1d8411T7co/">[进入]</a></p>
+<p>Windows10官网：<a href="https://www.microsoft.com/zh-cn/software-download/windows10">[进入]</a><br>
+<img src="https://kolhazhan.github.io/post-images/1678503391366.png" alt="" loading="lazy"></p>
+<p>Fir PE：<a href="https://firpe.cn/page-247">[进入]</a><br>
+<img src="https://kolhazhan.github.io/post-images/1678503483181.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github上的神器 — smsboom，低调使用]]></title>
+        <id>https://kolhazhan.github.io/github-shang-de-shen-qi-smsboomdi-diao-shi-yong/</id>
+        <link href="https://kolhazhan.github.io/github-shang-de-shen-qi-smsboomdi-diao-shi-yong/">
+        </link>
+        <updated>2023-03-04T09:52:51.000Z</updated>
+        <content type="html"><![CDATA[<p>使用教程都在bilibili上<a href="https://www.bilibili.com/video/BV1M54y1N7xh/?spm_id_from=333.999.0.0">[进入]</a><br>
+<img src="https://kolhazhan.github.io/post-images/1678503728865.png" alt="" loading="lazy"></p>
+<p>下载地址：<a href="https://github.com/OpenEthan/SMSBoom/releases/download/main/smsboom.exe">[下载]</a></p>
+<p>大陆高速下载链接：<a href="https://www.123pan.com/s/pFL7Vv-Qihsd.html">[下载]</a>  提取码：baie</p>
+<p>关注我：<a href="https://space.bilibili.com/3493089192709063">[进入]</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://kolhazhan.github.io/guan-yu/</id>
+        <link href="https://kolhazhan.github.io/guan-yu/">
+        </link>
+        <updated>2023-03-04T08:55:14.000Z</updated>
+        <content type="html"><![CDATA[<p>##我是谁  kolha张gz<br>
+<img src="https://kolhazhan.github.io/post-images/1678505583221.png" alt="" loading="lazy"><br>
+##聯繫我  telegram：kolha zhan<br>
+<img src="https://kolhazhan.github.io/post-images/1678505655832.png" alt="" loading="lazy"><br>
+##bilibili頻道 <a href="https://space.bilibili.com/3493089192709063?spm_id_from=333.1007.0.0">[传送]</a><br>
+<img src="https://kolhazhan.github.io/post-images/1678505751995.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
